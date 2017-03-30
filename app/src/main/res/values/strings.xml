@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MosbyFragmentMvpDelegate</string>
+    <string name="dialog_title">Mvp dialog</string>
+</resources>
